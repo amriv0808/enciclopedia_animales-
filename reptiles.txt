@@ -1,1 +1,5 @@
-- Cocodrilo: Es de agua dulce
+<<<<<<< HEAD
+- Cocodrilo: Existen especies de agua dulce y de agua salada
+=======
+- Cocodrilo: Es de agua salada
+>>>>>>> 98b3088d97f2fca53a6b458991a6e20ee88e5c86
